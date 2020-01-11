@@ -1,7 +1,7 @@
 # SwiftUI-Examples
 Click the gif in any of the examples to go to the examples repository.
 
-###Table of Contents
+**Table of Contents**
 - [Side Menu](#SwiftUI-SideMenuPopup)
 - [Progress Bars](#SwiftUI-ProgressBars)
 
