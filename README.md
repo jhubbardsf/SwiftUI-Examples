@@ -22,7 +22,7 @@ Example of circle and line progress bars in SwiftUI
 Credit: [ProgrammingWithSwift.com](https://programmingwithswift.com/swiftui-progress-bar-indicator/)
 
 ## SwiftUI-ListItemsWithDelete
-Example of basic delete with swift delete functionality.
+Example of basic delete with swipe delete functionality.
 
 [![Example Gif](https://github.com/jhubbardsf/SwiftUI-ListItemsWithDelete/blob/master/ListWithDelete.gif)](https://github.com/jhubbardsf/SwiftUI-ListItemsWithDelete)
 
